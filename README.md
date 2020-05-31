@@ -17,3 +17,19 @@ The following are the list of questions we need to find out in the dataset.
 # Findings
 
 Checkout the notebook [here](exploring_whr.ipynb)
+
+# Data set
+
+You can download the dataset [here](https://www.kaggle.com/unsdsn/world-happiness)
+
+The data set is a CSV file called [`World_Happiness_2015.csv`](https://www.kaggle.com/unsdsn/world-happiness). Below are descriptions for columns:
+
+|**Column**|**Description**|
+|---|---|
+|**`Country`**|Name of the country.|
+|**`Region`**|Name of the region the country belongs to.|
+|**`Happiness Rank`**|The rank of the country, as determined by its happiness score.|
+|**`Happiness Score`**|A score assigned to each country based on the answers to a poll question that asks respondents to rate their happiness on a scale of 0-10.|
+|**`Family`**|The estimated extent to which family contributes to the happiness score.|
+|**`Freedom`**|The estimated extent to which freedom contributes to the happiness score.|
+|**`Generosity`**|The estimated extent to which generosity contributes to the happiness score.|
